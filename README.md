@@ -1,2 +1,2 @@
 # My-JAX
-My notebooks and scripts for Python and JAX
+## My notebooks and scripts for Python and JAX
