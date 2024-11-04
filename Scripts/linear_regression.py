@@ -6,7 +6,7 @@ from jax import random
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import numpy as np
 import time
-
+import jax.nn
 def get_data():
     dataset_train = pd.read_csv('Data/train.csv')
     dataset_train = dataset_train.to_numpy()
